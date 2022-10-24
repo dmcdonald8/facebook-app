@@ -15,3 +15,4 @@ VERSION = (
 class Settings(BaseSettings):
     api_version: str = "v1"
     url_prefix: str = "api"
+    max_facebook_pages: int = 10
