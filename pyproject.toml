@@ -10,6 +10,7 @@ fastapi = "^0.85.1"
 facebook-scraper = "^0.2.59"
 fastapi-pagination = "^0.10.0"
 toml = "^0.10.2"
+dominate = "^2.7.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
